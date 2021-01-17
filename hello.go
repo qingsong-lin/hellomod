@@ -1,5 +1,9 @@
 package hellomod
 
 func Hello() string {
-    return "Hello World!"
+    return "v2: Hello World!"
+}
+
+func HelloV3() string {
+    return "v3.HelloV3: Hello World!"
 }
